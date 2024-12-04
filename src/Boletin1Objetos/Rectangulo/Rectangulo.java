@@ -1,4 +1,4 @@
-package boletin1Objetos.Rectangulo;
+package Boletin1Objetos.Rectangulo;
 
 /**  Crear una clase Rectangulo con los atributos longitud y ancho, cada uno con un
  * valor predeterminado igual a 1. Proporcionar los métodos set y get para los

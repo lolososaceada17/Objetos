@@ -1,4 +1,4 @@
-package boletin1Objetos.Rectangulo;
+package Boletin1Objetos.Rectangulo;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package boletin1Objetos.boletin1ObjetosTema4Ejercicio3MaquinaDeCafe;
+package Boletin1Objetos.MaquinaDeCafe;
 
 /**
  * Realizar una programa en Java que sirva para simular una máquina de café.

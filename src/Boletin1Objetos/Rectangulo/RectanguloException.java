@@ -1,4 +1,4 @@
-package boletin1Objetos.Rectangulo;
+package Boletin1Objetos.Rectangulo;
 
 public class RectanguloException extends Exception {
     public RectanguloException(String message) {

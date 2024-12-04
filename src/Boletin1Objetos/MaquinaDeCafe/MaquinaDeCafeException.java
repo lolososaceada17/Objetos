@@ -1,4 +1,4 @@
-package boletin1Objetos.boletin1ObjetosTema4Ejercicio3MaquinaDeCafe;
+package Boletin1Objetos.MaquinaDeCafe;
 
 public class MaquinaDeCafeException extends Exception {
     public MaquinaDeCafeException(String message) {super(message);}

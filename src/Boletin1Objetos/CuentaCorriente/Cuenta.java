@@ -1,4 +1,4 @@
-package boletin1Objetos.objetosTema4Ejercicio2CuentaCorriente;
+package Boletin1Objetos.CuentaCorriente;
 
 /**
  * 2. Realizar un programa que permita gestionar el saldo de una cuenta corriente. Una

@@ -1,4 +1,4 @@
-package boletin1Objetos.objetosTema4Ejercicio2CuentaCorriente;
+package Boletin1Objetos.CuentaCorriente;
 
 import java.util.Scanner;
 
