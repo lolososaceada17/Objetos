@@ -11,6 +11,7 @@ package boletin1Objetos.objetosTema4Ejercicio2CuentaCorriente;
  * 4. Finalizar las operaciones. Debe confirmar si realmente desea
  * salir e informar del saldo al final de todas las operaciones.
  * Debe realizarse una clase Cuenta y la clase Principal.
+ * adlfknvlafkd
  */
 
 public class Cuenta {
