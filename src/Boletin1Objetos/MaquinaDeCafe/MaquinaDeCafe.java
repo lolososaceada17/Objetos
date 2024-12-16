@@ -29,7 +29,7 @@ package Boletin1Objetos.MaquinaDeCafe;
  *  Método para vaciar monedero.
  *  Método para consultar el estado de la máquina.
  *  Método para servir café sólo, leche o café con leche. Este método mostrará
- * los mensajes de error correspondientes o el mensaje "Producto servido"
+ * los mensajes de error correspondientes o el mensaje "Boletin2Objetos.Producto servido"
  */
 
 public class MaquinaDeCafe {
